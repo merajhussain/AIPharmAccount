@@ -1,6 +1,6 @@
 # AIPharmAccount - Pharmacy Management System
 
-Open-source pharmacy invoice, inventory, and business intelligence system.
+Open-source** pharmacy invoice, inventory, and business intelligence system.
 
 ## Features
 - 📦 Inventory Management
@@ -23,3 +23,5 @@ MIT License - See LICENSE file
 
 ## Contributing
 Pull requests welcome!
+
+## **code will be soon out in this repo
