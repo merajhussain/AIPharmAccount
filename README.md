@@ -24,4 +24,4 @@ MIT License - See LICENSE file
 ## Contributing
 Pull requests welcome!
 
-## **code will be soon out in this repo
+## **code will be soon out in this repo. Binary zip of the compiled software is out as part of the initial release. So for now its open binary
