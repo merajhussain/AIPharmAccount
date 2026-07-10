@@ -14,7 +14,7 @@ Open-source** pharmacy invoice, inventory, and business intelligence system.
 - Java 21
 - Spring Boot 3.x
 - JavaFX (UI)
-- Sqlitw
+- Sqlite
 - Maven
 - Flyway (Migrations)
 
@@ -24,4 +24,4 @@ MIT License - See LICENSE file
 ## Contributing
 Pull requests welcome!
 
-## **code will be soon out in this repo. Binary zip of the compiled software is out as part of the initial release. So for now its open binary
+## **code will be soon out in this repo. Binary zip of the compiled software is out as part of the initial release. So for now its open binary. Soon it will be open source
